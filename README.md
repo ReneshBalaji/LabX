@@ -26,8 +26,7 @@
 
 ## 🚧 Current Development Status
 
-> **Phase:** MVP Development (March 2025)  
-> Simulation engine and chatbot modules are under active development. Cross-platform testing in progress.
+> Currently in development
 
 ---
 
